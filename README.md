@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://picresize.com/images/rsz_2rsz_5f6deaca919cd.png" width="25px" draggable="false"><b> </b>Llama47 &middot; Discord Bot
+# <img src="https://picresize.com/images/rsz_2rsz_5f6deaca919cd.png" width="26px" draggable="false"><b> </b>Llama47 &middot; Discord Bot
 
 ### ![version](https://img.shields.io/badge/Version-1.0.0-yellow.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=yellow&logo=discord&logoColor=white)](https://discord.gg/hKpcjhK)
 
