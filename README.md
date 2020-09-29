@@ -40,9 +40,6 @@ Llama47 costs $5 and can be purchased from [Tornado](https://twitter.com/im2rnad
   </ol>
 </details>
 
-# I purchased Llama47, what's next?
-
-You can check out our guide on how to get started at [#get-started](https://discord.com/channels/739856631038345266/739856841936470127) or use +help to get a full list of commands!
 
 # Llama47 - Premium Commands
 The standard command prefix is `+`
@@ -51,18 +48,22 @@ The standard command prefix is `+`
 ### Login
 Command: `+login`\
 Aliases: `+signin`, `+i`\
-Logs into your account
+Logs into your Epic Games account using Authorization Code
+
+Example:
+
+* `+login 7d6a37822ec1428e8d927d11dcaf59c1`
 ### Logout
 Command: `+logout`\
 Aliases: `+signout`\
-Logs out of your account
+Logs out of your Epic Games account
 ### Balance
 Command: `+balance`\
 Aliases: `+bal`, `+vbucks`\
 Returns your vbucks
 ### Support a Creator Code
 Command: `+sac`\
-Returns your current sac or sets your desired code
+Returns your current SAC or sets your desired code
 ### Gift History
 Command: `+gifthistory`\
 Aliases: `+giftbook`, `+gifth`\
@@ -73,20 +74,20 @@ Aliases: `+account`, `+br`\
 Returns information about your account
 ### Party Hub Avatar
 Command: `+avatar`\
-Returns your current party hub avatar
+Returns your current Party Hub avatar
 ### Shop
 Command: `+shop `\
 Aliases: `+store`, `+st`\
-Returns the daily and featured shop
+Returns the item shop
 ## Save The World
 ### Claim Daily
 Command: `+daily`\
 Aliases: `+claim`, `+stw`\
-Claims your daily stw reward
+Claims your daily STW reward
 ### Homebase Name
 Command: `+homebase`\
 Aliases: `+homebasename`\
-Changes your stw homebase name
+Changes your STW homebase name
 
 # Credits
 ## Contributers
