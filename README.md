@@ -51,7 +51,7 @@ The standard command prefix is `+`
 ### Login
 Command: `+login`\
 Aliases: `+signin`, `+i`\
-Logs into your account.
+Logs into your account
 ### Logout
 Command: `+logout`\
 Aliases: `+signout`\
@@ -60,6 +60,9 @@ Logs out of your account
 Command: `+balance`\
 Aliases: `+bal`, `+vbucks`\
 Returns your vbucks
+### Support a Creator Code
+Command: `+sac`\
+Returns your current sac or sets your desired code
 ### Gift History
 Command: `+gifthistory`\
 Aliases: `+giftbook`, `+gifth`\
@@ -68,10 +71,13 @@ Returns your gift history
 Command: `+level`\
 Aliases: `+account`, `+br`\
 Returns information about your account
+### Party Hub Avatar
+Command: `+avatar`\
+Returns your current party hub avatar
 ### Shop
 Command: `+shop `\
 Aliases: `+store`, `+st`\
-Returns the daily and featured Shop
+Returns the daily and featured shop
 ## Save The World
 ### Claim Daily
 Command: `+daily`\
