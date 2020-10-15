@@ -94,11 +94,14 @@ Changes your STW homebase name
  * [QPixel](https://twitter.com/thatqpixel)
  * [Speeedyyyy](https://twitter.com/Speeedyyyytv)
  * [Mix](https://twitter.com/tonxim)
-## Libraries
+ * Teenari
+## Libraries/APIs
  * [discord.js](https://www.npmjs.com/package/discord.js)
  * [Axios](https://www.npmjs.com/package/axios)
  * [Canvas](https://www.npmjs.com/package/canvas)
  * [SQLite](https://www.sqlite.org/)
-
+ * [Fortnite-API](https://fortnite-api.com)
+ * Blobry
+ 
 
 This project is **NOT** affiliated, authorized, endorsed by, or in any way related to Epic Games.
