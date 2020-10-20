@@ -47,17 +47,7 @@
 
 # Price
 
-Llama47 costs $5 and can be purchased from [Tornado](https://twitter.com/im2rnadoo) but there are also several ways to obtain Premium access to the bot. You can win giveaways which we constantly do or if you contribute to the bot, you get free access!
-<details>
-  <summary><b><u>Buy Now</u></b> (Click to expand)</summary>
-
-  <ol>
-
-#### BitCoin: `1F2gwh4U4KHk2n8eWEKtwsfMxgh9ibUMtn`
-
-  </ol>
-</details>
-
+Llama47 is currently in beta (free) and can be accessed from [Tornado](https://twitter.com/im2rnadoo)!
 
 # Llama47 - Premium Commands
 The standard command prefix is `+`
