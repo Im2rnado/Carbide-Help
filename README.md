@@ -184,7 +184,6 @@ Changes your STW homebase name
  * [discord.js](https://www.npmjs.com/package/discord.js)
  * [Axios](https://www.npmjs.com/package/axios)
  * [Canvas](https://www.npmjs.com/package/canvas)
- * [SQLite](https://www.sqlite.org/)
  * [Fortnite-API](https://fortnite-api.com)
  * [FortniteAPI.io](https://fortniteapi.io)
  * [Blobry](https://blobry.herokuapp.com)
