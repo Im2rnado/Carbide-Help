@@ -11,7 +11,7 @@
 
 # About
 
-**Llama47** is a **Discord Bot** made by [Tornado](https://twitter.com/im2rnadoo) that let's you login to your Fortnite account and access 15+ commands!
+**Llama47** is a **Discord Bot** made by [Tornado](https://twitter.com/im2rnadoo) that let's you login to your Fortnite account and access 35+ commands!
 
 # Features
 
@@ -21,6 +21,24 @@
 - Claim your Daily STW Reward
 - Show your BR Level
 - Show your Account Level
+- Show your Real Name
+- Show your Account Email
+- Show your Linked External Accounts
+- Remove your Linked External Accounts
+- Show your Locker
+- Show your Display Name changes
+- Show when you can change your Display Name next
+- Show if your account is verified
+- Show your Fishing Book
+- Check Validity of Epic Games Code
+- Show your Favorite Islands
+- Add a Favorite Island
+- Add a friend
+- Remove a friend
+- Change your Homebase Name
+- Show your Party Hub Avatar
+- Show your Devices and their IP
+- Generate an access token
 - Show your Gift History
 - Show if you have 2FA
 - Show your Account Creation Date
