@@ -61,24 +61,101 @@ Logs out of your Epic Games account
 Command: `+balance`\
 Aliases: `+bal`, `+vbucks`\
 Returns your vbucks
+### Locker Image
+Command: `+locker`\
+Returns your locker in a good looking image
+### Locker List
+Command: `+locker list`\
+Returns your skin names in a message
 ### Support a Creator Code
 Command: `+sac`\
 Returns your current SAC or sets your desired code
+### Access Token
+Command: `+token`\
+Generates an access token for your account
+## Info
 ### Gift History
 Command: `+gifthistory`\
 Aliases: `+giftbook`, `+gifth`\
 Returns your gift history
 ### Account Info
-Command: `+level`\
-Aliases: `+account`, `+br`\
-Returns information about your account
+Command: `+info`\
+Aliases: `+account`\
+Returns very secret information about your account
+### IP's
+Command: `+ip`\
+Aliases: `+devices`\
+Returns every IP Address logged in to your account
+### Battle Royale Info
+Command: `+br`\
+Aliases: `+level`\
+Returns information about your BR history
+## Party Hub and Friends
 ### Party Hub Avatar
 Command: `+avatar`\
 Returns your current Party Hub avatar
+### Friends Add
+Command: `+f add`\
+Adds a friend
+
+Example:
+
+* `+f add toelicker69`
+### Friends Remove
+Command: `+f remove`\
+Adds a friend
+
+Example:
+
+* `+f remove toelicker69`
+## Linked Accounts
+### Get Linked
+Command: `+linked`\
+Aliases: `+link`, `+external`, `+platforms`\
+Gets all linked accounts
+### Delete Linked
+Command: `+linked remove`\
+Aliases: `+linked delete`, `+linked unlink`\
+Removes a linked account (works with unverified accounts too)
+
+Example:
+
+* `+linked remove psn`
+## Creative
+### Get Favorite Islands
+Command: `+islands`\
+Aliases: `+favorite`, `+island`\
+Gets all favorited islands
+### Add Favorite Island
+Command: `+islands add`\
+Adds a favorited island
+
+Example:
+
+* `+island add 8064-7152-2934`
+### Remove Favorite Island
+Command: `+islands remove`\
+Removes a favorited island
+
+Example:
+
+* `+island remove 8064-7152-2934`
+## Battle Royale
 ### Shop
 Command: `+shop `\
 Aliases: `+store`, `+st`\
 Returns the item shop
+### Check Code
+Command: `+checkcode `\
+Aliases: `+cc`, `+ccode`, `+checkc`\
+Checks Validity of Epic Games Code
+
+Example:
+
+* `+cc XN455VEU9EHB6NGDZWRM`
+### Fishing Book
+Command: `+fish `\
+Returns your fishing book
 ## Save The World
 ### Claim Daily
 Command: `+daily`\
