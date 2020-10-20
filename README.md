@@ -177,8 +177,8 @@ Changes your STW homebase name
 # Credits
 ## Contributers
  * [QPixel](https://twitter.com/thatqpixel)
- * [Speeedyyyy](https://twitter.com/Speeedyyyytv)
  * [Mix](https://twitter.com/tonxim)
+ * [tb24](https://twitter.com/amrsatrio)
  * Teenari
 ## Libraries/APIs
  * [discord.js](https://www.npmjs.com/package/discord.js)
@@ -186,7 +186,8 @@ Changes your STW homebase name
  * [Canvas](https://www.npmjs.com/package/canvas)
  * [SQLite](https://www.sqlite.org/)
  * [Fortnite-API](https://fortnite-api.com)
- * Blobry
+ * [FortniteAPI.io](https://fortniteapi.io)
+ * [Blobry](https://blobry.herokuapp.com)
  
 
 This project is **NOT** affiliated, authorized, endorsed by, or in any way related to Epic Games.
