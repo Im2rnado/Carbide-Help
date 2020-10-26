@@ -33,6 +33,7 @@
 - Check Validity of Epic Games Code
 - Show your Favorite Islands
 - Add a Favorite Island
+- Get friends list
 - Add a friend
 - Remove a friend
 - Change your Homebase Name
@@ -102,15 +103,21 @@ Returns information about your BR history
 ### Party Hub Avatar
 Command: `+avatar`\
 Returns your current Party Hub avatar
+### Friends List
+Command: `+friend list`\
+Aliases: `+f list`\
+Returns your friends list
 ### Friends Add
-Command: `+f add`\
+Command: `+friend add`\
+Aliases: `+f add`\
 Adds a friend
 
 Example:
 
 * `+f add toelicker69`
 ### Friends Remove
-Command: `+f remove`\
+Command: `+friend remove`\
+Aliases: `+f remove`\
 Adds a friend
 
 Example:
@@ -176,17 +183,15 @@ Changes your STW homebase name
 
 # Credits
 ## Contributers
- * [QPixel](https://twitter.com/thatqpixel)
- * [Mix](https://twitter.com/tonxim)
- * [tb24](https://twitter.com/amrsatrio)
- * Teenari
+ * [Mix](https://twitter.com/tonxim) - Endpoints
+ * [tb24](https://twitter.com/amrsatrio) - Endpoints
+ * [Sprayxe](https://twitter.com/sprayxe_) - Coding Help
+ * [QPixel](https://twitter.com/thatqpixel) - Auth
 ## Libraries/APIs
- * [discord.js](https://www.npmjs.com/package/discord.js)
- * [Axios](https://www.npmjs.com/package/axios)
- * [Canvas](https://www.npmjs.com/package/canvas)
- * [Fortnite-API](https://fortnite-api.com)
- * [FortniteAPI.io](https://fortniteapi.io)
- * [Blobry](https://blobry.herokuapp.com)
+ * [discord.js](https://www.npmjs.com/package/discord.js) - Discord Bot
+ * [Axios](https://www.npmjs.com/package/axios) - Requests
+ * [Canvas](https://www.npmjs.com/package/canvas) - Images
+ * [FortniteAPI.io](https://fortniteapi.io) - Shop
  
 
 This project is **NOT** affiliated, authorized, endorsed by, or in any way related to Epic Games.
