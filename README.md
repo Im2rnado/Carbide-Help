@@ -82,7 +82,7 @@ Returns your current SAC or sets your desired code
 ### Access Token
 Command: `+token`\
 Generates an access token for your account
-## Info
+## Battle Royale
 ### Gift History
 Command: `+gifthistory`\
 Aliases: `+giftbook`, `+gifth`\
@@ -95,10 +95,25 @@ Returns very secret information about your account
 Command: `+ip`\
 Aliases: `+devices`\
 Returns every IP Address logged in to your account
-### Battle Royale Info
+### Game Info
 Command: `+br`\
 Aliases: `+level`\
 Returns information about your BR history
+### Shop
+Command: `+shop `\
+Aliases: `+store`, `+st`\
+Returns the item shop
+### Check Code
+Command: `+checkcode `\
+Aliases: `+cc`, `+ccode`, `+checkc`\
+Checks Validity of Epic Games Code
+
+Example:
+
+* `+cc XN455VEU9EHB6NGDZWRM`
+### Fishing Book
+Command: `+fish `\
+Returns your fishing book
 ## Party Hub and Friends
 ### Party Hub Avatar
 Command: `+avatar`\
@@ -155,22 +170,6 @@ Removes a favorited island
 Example:
 
 * `+island remove 8064-7152-2934`
-## Battle Royale
-### Shop
-Command: `+shop `\
-Aliases: `+store`, `+st`\
-Returns the item shop
-### Check Code
-Command: `+checkcode `\
-Aliases: `+cc`, `+ccode`, `+checkc`\
-Checks Validity of Epic Games Code
-
-Example:
-
-* `+cc XN455VEU9EHB6NGDZWRM`
-### Fishing Book
-Command: `+fish `\
-Returns your fishing book
 ## Save The World
 ### Claim Daily
 Command: `+daily`\
