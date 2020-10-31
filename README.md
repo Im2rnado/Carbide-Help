@@ -2,7 +2,7 @@
 
 # Carbide &middot; Discord Bot
 
-### ![version](https://img.shields.io/badge/Version-1.0.0-yellow.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=yellow&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
+### ![version](https://img.shields.io/badge/Version-1.0.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
 
 <a target="_blank" href="https://discord.gg/5pKvUpA" title="Join our Discord!">
 <img draggable="false" src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
@@ -11,7 +11,7 @@
 
 # About
 
-**Llama47** is a **Discord Bot** made by [Tornado](https://twitter.com/im2rnadoo) that let's you login to your Fortnite account and access 35+ commands!
+**Carbide** is a **Discord Bot** made by [Tornado](https://twitter.com/im2rnadoo) that let's you login to your Fortnite account and access 35+ commands!
 
 # Features
 
@@ -48,9 +48,9 @@
 
 # Price
 
-Llama47 is currently in beta (free) and can be accessed from [Tornado](https://twitter.com/im2rnadoo)!
+Carbide is currently in beta (free) and can be accessed from [Tornado](https://twitter.com/im2rnadoo)!
 
-# Llama47 - Premium Commands
+# Carbide - Premium Commands
 The standard command prefix is `+`
 
 ## Account
