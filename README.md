@@ -185,7 +185,7 @@ Changes your STW homebase name
  * [Mix](https://twitter.com/tonxim) - Endpoints
  * [tb24](https://twitter.com/amrsatrio) - Endpoints
  * [Sprayxe](https://twitter.com/sprayxe_) - Coding Help
- * [QPixel](https://twitter.com/thatqpixel) - Auth
+ * [QPixel](https://twitter.com/qpixel_) - Auth
 ## Libraries/APIs
  * [Axios](https://www.npmjs.com/package/axios) - Requests
  * [Canvas](https://www.npmjs.com/package/canvas) - Images
