@@ -187,7 +187,6 @@ Changes your STW homebase name
  * [Sprayxe](https://twitter.com/sprayxe_) - Coding Help
  * [QPixel](https://twitter.com/thatqpixel) - Auth
 ## Libraries/APIs
- * [discord.js](https://www.npmjs.com/package/discord.js) - Discord Bot
  * [Axios](https://www.npmjs.com/package/axios) - Requests
  * [Canvas](https://www.npmjs.com/package/canvas) - Images
  * [FortniteAPI.io](https://fortniteapi.io) - Shop
