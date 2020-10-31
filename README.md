@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://i.imgur.com/indd1u4.png" width="26px" draggable="false"><b> </b>Llama47 &middot; Discord Bot
+# Carbide &middot; Discord Bot
 
 ### ![version](https://img.shields.io/badge/Version-1.0.0-yellow.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=yellow&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
 
