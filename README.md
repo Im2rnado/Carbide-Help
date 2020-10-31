@@ -15,6 +15,8 @@
 
 # Features
 
+- Buy from the item shop
+- Gift from the item shop
 - Show your Account Name
 - Show your Account ID
 - Show your Vbucks
@@ -56,7 +58,7 @@ The standard command prefix is `+`
 ## Account
 ### Login
 Command: `+login`\
-Aliases: `+signin`, `+i`\
+Aliases: `+i`, `+signin`\
 Logs into your Epic Games account using Authorization Code
 
 Example:
@@ -64,8 +66,32 @@ Example:
 * `+login 7d6a37822ec1428e8d927d11dcaf59c1`
 ### Logout
 Command: `+logout`\
-Aliases: `+signout`\
+Aliases: `+o`, `+signout`\
 Logs out of your Epic Games account
+### Account Info
+Command: `+info`\
+Aliases: `+account`\
+Returns very secret information about your account
+### Access Token
+Command: `+token`\
+Generates an access token for your account
+## Fortnite
+### Buy
+Command: `+buy `\
+Aliases: `+b`, `+purchase`\
+Buys an item from the shop
+
+Example:
+
+* `+buy Aura`
+### Gift
+Command: `+gift `\
+Aliases: `+g`\
+Gifts an item from the shop
+
+Example:
+
+* `+gift Aura`
 ### Balance
 Command: `+balance`\
 Aliases: `+bal`, `+vbucks`\
@@ -79,30 +105,26 @@ Returns your skin names in a message
 ### Support a Creator Code
 Command: `+sac`\
 Returns your current SAC or sets your desired code
-### Access Token
-Command: `+token`\
-Generates an access token for your account
-## Battle Royale
 ### Gift History
 Command: `+gifthistory`\
 Aliases: `+giftbook`, `+gifth`\
 Returns your gift history
-### Account Info
-Command: `+info`\
-Aliases: `+account`\
-Returns very secret information about your account
 ### IP's
 Command: `+ip`\
 Aliases: `+devices`\
 Returns every IP Address logged in to your account
-### Game Info
-Command: `+br`\
-Aliases: `+level`\
-Returns information about your BR history
+### Info
+Command: `+level`\
+Aliases: `+br`\
+Returns information about your Battle Royale
 ### Shop
 Command: `+shop `\
 Aliases: `+store`, `+st`\
 Returns the item shop
+### Shop Image
+Command: `+shopimage `\
+Aliases: `+sm`, `+sp`, `+si`, `+shoppic`\
+Returns the item shop in an image
 ### Check Code
 Command: `+checkcode `\
 Aliases: `+cc`, `+ccode`, `+checkc`\
@@ -151,6 +173,15 @@ Removes a linked account (works with unverified accounts too)
 Example:
 
 * `+linked remove psn`
+## Save The World
+### Claim Daily
+Command: `+daily`\
+Aliases: `+claim`, `+stw`\
+Claims your daily STW reward
+### Homebase Name
+Command: `+homebase`\
+Aliases: `+homebasename`\
+Changes your STW homebase name
 ## Creative
 ### Get Favorite Islands
 Command: `+islands`\
@@ -170,15 +201,6 @@ Removes a favorited island
 Example:
 
 * `+island remove 8064-7152-2934`
-## Save The World
-### Claim Daily
-Command: `+daily`\
-Aliases: `+claim`, `+stw`\
-Claims your daily STW reward
-### Homebase Name
-Command: `+homebase`\
-Aliases: `+homebasename`\
-Changes your STW homebase name
 
 # Credits
 ## Contributers
