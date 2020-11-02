@@ -160,6 +160,22 @@ Adds a friend
 Example:
 
 * `+f remove toelicker69`
+### Accept Requests
+Command: `+friend accept`\
+Aliases: `+f accept`\
+Accepts a friend request
+
+Example:
+
+* `+f accept toelicker69`
+### Reject Requests
+Command: `+friend reject`\
+Aliases: `+f reject`\
+Rejects a friend request
+
+Example:
+
+* `+f reject toelicker69`
 ## Linked Accounts
 ### Get Linked
 Command: `+linked`\
