@@ -176,6 +176,10 @@ Rejects a friend request
 Example:
 
 * `+f reject toelicker69`
+### Friends Requets
+Command: `+friend requests`\
+Aliases: `+f requests`\
+Returns your friends requests
 ## Linked Accounts
 ### Get Linked
 Command: `+linked`\
