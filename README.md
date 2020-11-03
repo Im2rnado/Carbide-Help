@@ -50,7 +50,7 @@
 
 # Price
 
-Carbide can be accessed by buying something with code: `im2rnado` (1000 Vbucks) then sending a picture to [im2rnado](https://twitter.com/im2rnadoo)!
+Carbide can be accessed by buying something with code: `im2rnado` (2000 Vbucks) then sending a picture to [im2rnado](https://twitter.com/im2rnadoo) or being purchased with $5 BTC
 
 # Carbide - Premium Commands
 The standard command prefix is `+`
