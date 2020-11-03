@@ -72,6 +72,11 @@ Logs out of your Epic Games account
 Command: `+info`\
 Aliases: `+account`\
 Returns very secret information about your account
+### Claim 2FA Reward
+Command: `+2fa`\
+Aliases: `+mfa`\
+Claims the Boogie Down emote on your account. This is needed to be able to gift.
+You need to have to 2FA enabled on [Epic Games](https://www.epicgames.com/account/password) first
 ### Access Token
 Command: `+token`\
 Generates an access token for your account
@@ -109,10 +114,21 @@ Returns your current SAC or sets your desired code
 Command: `+gifthistory`\
 Aliases: `+giftbook`, `+gifth`\
 Returns your gift history
+### Undo
+Command: `+undo`\
+Undos your last purchase
 ### IP's
 Command: `+ip`\
-Aliases: `+devices`\
+Aliases: `+devices`, `+device`\
 Returns every IP Address logged in to your account
+### Device Remove
+Command: `+ip remove`\
+Aliases: `+device remove`, `+device delete`\
+Removes a device auth
+
+Example:
+
+* `+device remove bf808d174eae460097e945c6a930feaf`
 ### Info
 Command: `+level`\
 Aliases: `+br`\
