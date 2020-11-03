@@ -74,7 +74,7 @@ Aliases: `+account`\
 Returns very secret information about your account
 ### Claim 2FA Reward
 Command: `+2fa`\
-Aliases: `+mfa`\
+Aliases: `+mfa`, `+boogie`\
 Claims the Boogie Down emote on your account. This is needed to be able to gift.\
 You need to have to 2FA enabled on [Epic Games](https://www.epicgames.com/account/password) first
 ### Access Token
