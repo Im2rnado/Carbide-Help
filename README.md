@@ -105,7 +105,7 @@ Returns your vbucks
 ### Vbucks Platform
 Command: `+platform`\
 Aliases: `+plt`, `+vp`, `+vbucksplatform`\
-Usage: `+vp <WeGame|EpicPCKorea|Epic|EpicPC|EpicAndroid|PSN|Live|IOSAppStore|Nintendo|Samsung|Shared>`\
+Usage: `<WeGame|EpicPCKorea|Epic|EpicPC|EpicAndroid|PSN|Live|IOSAppStore|Nintendo|Samsung|Shared>`\
 Changes your Vbucks Platform 
 
 Example:
