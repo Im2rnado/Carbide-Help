@@ -199,7 +199,7 @@ Returns your friends requests
 ## Linked Accounts
 ### Get Linked
 Command: `+linked`\
-Aliases: `+link`, `+external`, `+platforms`\
+Aliases: `+link`, `+external`\
 Gets all linked accounts
 ### Delete Linked
 Command: `+linked remove`\
