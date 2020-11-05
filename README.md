@@ -259,4 +259,4 @@ Example:
  * [Canvas](https://www.npmjs.com/package/canvas) - Images
  
 
-This project is **NOT** affiliated, authorized, endorsed by, or in any way related to Epic Games.
+This project is **NOT** affiliated, authorized, endorsed by, or in any way related to Epic Games Inc.
