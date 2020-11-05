@@ -28,6 +28,7 @@
 - Show your Linked External Accounts
 - Remove your Linked External Accounts
 - Show your Locker
+- Change Vbucks Platform
 - Show your Display Name changes
 - Show when you can change your Display Name next
 - Show if your account is verified
@@ -101,6 +102,15 @@ Example:
 Command: `+balance`\
 Aliases: `+bal`, `+vbucks`\
 Returns your vbucks
+### Vbucks Platform
+Command: `+platform`\
+Aliases: `+plt`, `+vp`, `+vbucksplatform`\
+Usage: `+platform <WeGame|EpicPCKorea|Epic|EpicPC|EpicAndroid|PSN|Live|IOSAppStore|Nintendo|Samsung|Shared>`\
+Changes your Vbucks Platform 
+
+Example:
+
+* `+platform PSN`
 ### Locker Image
 Command: `+locker`\
 Returns your locker in a good looking image
