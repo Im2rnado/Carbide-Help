@@ -252,12 +252,11 @@ Example:
 ## Contributers
  * [Mix](https://twitter.com/tonxim) - Endpoints
  * [tb24](https://twitter.com/amrsatrio) - Endpoints
- * [Sprayxe](https://twitter.com/sprayxe_) - Coding Help
  * [QPixel](https://twitter.com/qpixel_) - Auth
 ## Libraries/APIs
  * [Axios](https://www.npmjs.com/package/axios) - Requests
- * [Canvas](https://www.npmjs.com/package/canvas) - Images
  * [FortniteAPI.io](https://fortniteapi.io) - Shop
+ * [Canvas](https://www.npmjs.com/package/canvas) - Images
  
 
 This project is **NOT** affiliated, authorized, endorsed by, or in any way related to Epic Games.
