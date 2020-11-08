@@ -28,6 +28,8 @@
 - Show your Linked External Accounts
 - Remove your Linked External Accounts
 - Show your Locker
+- Buy Battle Pass
+- Buy Battle Bundle
 - Change Vbucks Platform
 - Show your Display Name changes
 - Show when you can change your Display Name next
@@ -111,6 +113,14 @@ Changes your Vbucks Platform
 Example:
 
 * `+platform PSN`
+### Purchase Battle Pass
+Command: `+battlepass `\
+Aliases: `+bp`\
+Buys the Battle Pass
+### Purchase Battle Bundle
+Command: `+battlebundle `\
+Aliases: `+bd`\
+Buys the Battle Bundle
 ### Locker Image
 Command: `+locker`\
 Returns your locker in a good looking image
