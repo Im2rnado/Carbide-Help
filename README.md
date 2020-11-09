@@ -2,7 +2,7 @@
 
 # Carbide &middot; Discord Bot
 
-### ![version](https://img.shields.io/badge/Version-2.0.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
+### ![version](https://img.shields.io/badge/Version-2.1.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
 
 <a target="_blank" href="https://discord.gg/5pKvUpA" title="Join our Discord!">
 <img draggable="false" src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
@@ -28,6 +28,7 @@
 - Show your Linked External Accounts
 - Remove your Linked External Accounts
 - Show your Locker
+- Change Gift Message
 - Buy Battle Pass
 - Buy Battle Bundle
 - Change Vbucks Platform
@@ -113,6 +114,13 @@ Changes your Vbucks Platform
 Example:
 
 * `+platform PSN`
+### Gift Message
+Command: `+giftmessage`\
+Aliases: `+gm`, `+giftm`\
+Changes your Gift Message
+Example:
+
+* `+giftm You deserve this!`
 ### Purchase Battle Pass
 Command: `+battlepass `\
 Aliases: `+bp`\
