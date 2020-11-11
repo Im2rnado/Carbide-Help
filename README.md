@@ -145,6 +145,35 @@ Returns your gift history
 ### Undo
 Command: `+undo`\
 Undos your last purchase
+### Mark Seen
+Command: `+markseen`\
+Aliases: `+mark`, `+mark`\
+Marks and item as seen
+
+Example:
+
+* `+markseen Aura`
+### Favorite
+Command: `+favorite`\
+Favorite an item
+
+Example:
+
+* `+favorite Aura`
+### Unfavorite
+Command: `+unfavorite`\
+Unfavorite an item
+
+Example:
+
+* `+unfavorite Aura`
+### Equip
+Command: `+equip`\
+Equips an item
+
+Example:
+
+* `+equip Aura`
 ### IP's
 Command: `+ip`\
 Aliases: `+devices`, `+device`\
@@ -249,7 +278,7 @@ Changes your STW homebase name
 ## Creative
 ### Get Favorite Islands
 Command: `+islands`\
-Aliases: `+favorite`, `+island`\
+Aliases: `+island`\
 Gets all favorited islands
 ### Add Favorite Island
 Command: `+islands add`\
@@ -275,6 +304,7 @@ Example:
  * [Axios](https://www.npmjs.com/package/axios) - Requests
  * [FortniteAPI.io](https://fortniteapi.io) - Shop
  * [Canvas](https://www.npmjs.com/package/canvas) - Images
+ * [MongoDB](https://www.mongodb.com) - Database
  
 
 This project is **NOT** affiliated, authorized, endorsed by, or in any way related to Epic Games Inc.
