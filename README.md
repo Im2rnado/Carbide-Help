@@ -2,7 +2,7 @@
 
 # Carbide &middot; Discord Bot
 
-### ![version](https://img.shields.io/badge/Version-2.1.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
+### ![version](https://img.shields.io/badge/Version-2.15.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
 
 <a target="_blank" href="https://discord.gg/5pKvUpA" title="Join our Discord!">
 <img draggable="false" src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
@@ -113,7 +113,7 @@ Changes your Vbucks Platform
 
 Example:
 
-* `+platform PSN`
+* `+platform Nintendo`
 ### Gift Message
 Command: `+giftmessage`\
 Aliases: `+gm`, `+giftm`\
@@ -259,13 +259,14 @@ Command: `+linked`\
 Aliases: `+link`, `+external`\
 Gets all linked accounts
 ### Delete Linked
-Command: `+linked remove`\
-Aliases: `+linked delete`, `+linked unlink`\
+Command: `+unlink`\
+Aliases: `+linked delete`, `+linked remove`, `+linked unlink`\
+Usage: `<psn|xbl|nintendo|twitch|github|steam>`\
 Removes a linked account (works with unverified accounts too)
 
 Example:
 
-* `+linked remove psn`
+* `+unlink psn`
 ## Save The World
 ### Claim Daily
 Command: `+daily`\
