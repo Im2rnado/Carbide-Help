@@ -47,7 +47,11 @@
 - Show your Devices and their IP
 - Generate an access token
 - Show your Gift History
-- Show if you have 2FA
+- Equip a skin
+- Favorite an item
+- Unfavorite an item
+_ Mark an item as seen
+- Show if you have 2FA enabled
 - Show your Account Creation Date
 - Show the current shop
 - And tons of more features that get added frequently!
