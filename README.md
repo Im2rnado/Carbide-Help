@@ -58,7 +58,7 @@ _ Mark an item as seen
 
 # Price
 
-Carbide can be accessed by buying something with code: `im2rnado` (2000 Vbucks) then sending a picture to [im2rnado](https://twitter.com/im2rnadoo) or being purchased with $5 BTC
+Carbide costs $5 and can be purchased from [im2rnado](https://twitter.com/im2rnadoo)
 
 # Carbide - Premium Commands
 The standard command prefix is `+`
@@ -88,9 +88,6 @@ You need to have to 2FA enabled on [Epic Games](https://www.epicgames.com/accoun
 ### Access Token
 Command: `+token`\
 Generates an access token for your account
-### Exchange Code
-Command: `+Exchange`\
-Generates an exchange code for your account
 ## Fortnite
 ### Buy
 Command: `+buy `\
