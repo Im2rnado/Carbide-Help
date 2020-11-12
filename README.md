@@ -84,6 +84,9 @@ You need to have to 2FA enabled on [Epic Games](https://www.epicgames.com/accoun
 ### Access Token
 Command: `+token`\
 Generates an access token for your account
+### Exchange Code
+Command: `+Exchange`\
+Generates an exchange code for your account
 ## Fortnite
 ### Buy
 Command: `+buy `\
