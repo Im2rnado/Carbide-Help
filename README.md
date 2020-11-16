@@ -67,11 +67,7 @@ The standard command prefix is `+`
 ### Login
 Command: `+login`\
 Aliases: `+i`, `+signin`\
-Logs into your Epic Games account using Authorization Code
-
-Example:
-
-* `+login 7d6a37822ec1428e8d927d11dcaf59c1`
+Logs into your Epic Games account using Device Code
 ### Logout
 Command: `+logout`\
 Aliases: `+o`, `+signout`\
@@ -85,6 +81,14 @@ Command: `+2fa`\
 Aliases: `+mfa`, `+boogie`\
 Claims the Boogie Down emote on your account. This is needed to be able to gift.\
 You need to have to 2FA enabled on [Epic Games](https://www.epicgames.com/account/password) first
+### Login 
+Command: `+login2`\
+Aliases: `+i2`, `+signin2`\
+Logs into your Epic Games account using Authorization Code
+
+Example: 
+
+* `+login aabbccdd1122334455`
 ### Access Token
 Command: `+token`\
 Generates an access token for your account
@@ -304,7 +308,7 @@ Example:
 ## Contributers
  * [Mix](https://twitter.com/tonxim) - Endpoints
  * [tb24](https://twitter.com/amrsatrio) - Endpoints
- * [QPixel](https://twitter.com/qpixel_) - Auth
+ * [Tector](https://mobile.twitter.com/TectorTruck) - Auth Example
 ## Libraries/APIs
  * [Axios](https://www.npmjs.com/package/axios) - Requests
  * [FortniteAPI.io](https://fortniteapi.io) - Shop
