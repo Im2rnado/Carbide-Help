@@ -2,7 +2,7 @@
 
 # Carbide &middot; Discord Bot
 
-### ![version](https://img.shields.io/badge/Version-3.0.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
+### ![version](https://img.shields.io/badge/Version-3.1.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
 
 <a target="_blank" href="https://discord.gg/5pKvUpA" title="Join our Discord!">
 <img draggable="false" src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
@@ -72,6 +72,10 @@ Logs into your Epic Games account using Device Code
 Command: `+logout`\
 Aliases: `+o`, `+signout`\
 Logs out of your Epic Games account
+### Delete Saved Account
+Command: `+deletesaved`\
+Aliases: `+del`, `+removesaved`, `+deletesavedlogin`\
+Deletes your saved Fortnite account from the bot's database
 ### Account Info
 Command: `+info`\
 Aliases: `+account`\
