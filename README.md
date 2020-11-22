@@ -92,6 +92,19 @@ Logs into your Epic Games account using Authorization Code
 Example: 
 
 * `+login aabbccdd1122334455`
+### Get Linked
+Command: `+linked`\
+Aliases: `+link`, `+external`\
+Gets all linked accounts
+### Delete Linked
+Command: `+unlink`\
+Aliases: `+linked delete`, `+linked remove`, `+linked unlink`\
+Usage: `<psn|xbl|nintendo|twitch|github|steam>`\
+Removes a linked account (works with unverified accounts too)
+
+Example:
+
+* `+unlink psn`
 ### Access Token
 Command: `+token`\
 Generates an access token for your account
@@ -264,20 +277,6 @@ Example:
 Command: `+friend requests`\
 Aliases: `+f requests`\
 Returns your friends requests
-## Linked Accounts
-### Get Linked
-Command: `+linked`\
-Aliases: `+link`, `+external`\
-Gets all linked accounts
-### Delete Linked
-Command: `+unlink`\
-Aliases: `+linked delete`, `+linked remove`, `+linked unlink`\
-Usage: `<psn|xbl|nintendo|twitch|github|steam>`\
-Removes a linked account (works with unverified accounts too)
-
-Example:
-
-* `+unlink psn`
 ## Save The World
 ### Claim Daily
 Command: `+daily`\
@@ -306,6 +305,24 @@ Removes a favorited island
 Example:
 
 * `+island remove 8064-7152-2934`
+## Others
+### Report Bug
+Command: `+report`\
+Report any bug encountered
+Example:
+
+* `+report Balance command displays wrong amount`
+### News
+Command: `+news`\
+Usage: `<BR|Creative|STW>
+Returns in-game news
+
+Example:
+
+* `+news`
+### Ping
+Command: `+ping`\
+Returns latency and API latency
 
 # Credits
 ## Contributers
