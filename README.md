@@ -2,7 +2,7 @@
 
 # Carbide &middot; Discord Bot
 
-### ![version](https://img.shields.io/badge/Version-3.1.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
+### ![version](https://img.shields.io/badge/Version-3.2.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
 
 <a target="_blank" href="https://discord.gg/5pKvUpA" title="Join our Discord!">
 <img draggable="false" src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
@@ -57,7 +57,6 @@ _ Mark an item as seen
 - And tons of more features that get added frequently!
 
 # Price
-
 Carbide costs $5 and can be purchased from [im2rnado](https://twitter.com/im2rnadoo)
 
 # Carbide - Premium Commands
@@ -79,7 +78,7 @@ Deletes your saved Fortnite account from the bot's database
 ### Account Info
 Command: `+info`\
 Aliases: `+account`\
-Returns very secret information about your account
+Returns sensitive information about your Epic Games account
 ### Claim 2FA Reward
 Command: `+2fa`\
 Aliases: `+mfa`, `+boogie`\
@@ -315,7 +314,7 @@ Example:
  * [Tector](https://mobile.twitter.com/TectorTruck) - Auth Example
 ## Libraries/APIs
  * [Axios](https://www.npmjs.com/package/axios) - Requests
- * [FortniteAPI.io](https://fortniteapi.io) - Shop
+ * [FortniteAPI.io](https://fortniteapi.io) - Shop and Items
  * [Canvas](https://www.npmjs.com/package/canvas) - Images
  * [MongoDB](https://www.mongodb.com) - Database
  
