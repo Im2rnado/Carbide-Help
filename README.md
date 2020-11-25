@@ -19,7 +19,7 @@
 - Gift from the item shop
 - Show your Account Name
 - Show your Account ID
-- Show your Vbucks
+- Show your V-Bucks
 - Claim your Daily STW Reward
 - Show your BR Level
 - Show your Account Level
@@ -31,7 +31,7 @@
 - Change Gift Message
 - Buy Battle Pass
 - Buy Battle Bundle
-- Change Vbucks Platform
+- Change V-Bucks Platform
 - Show your Display Name changes
 - Show when you can change your Display Name next
 - Show if your account is verified
@@ -128,12 +128,12 @@ Example:
 ### Balance
 Command: `+balance`\
 Aliases: `+bal`, `+vbucks`\
-Returns your vbucks
+Returns your V-Bucks
 ### Vbucks Platform
 Command: `+platform`\
 Aliases: `+plt`, `+vp`, `+vbucksplatform`\
 Usage: `<WeGame|EpicPCKorea|Epic|EpicPC|EpicAndroid|PSN|Live|IOSAppStore|Nintendo|Samsung|Shared>`\
-Changes your Vbucks Platform 
+Changes your V-Bucks Platform 
 
 Example:
 
