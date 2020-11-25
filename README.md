@@ -57,9 +57,9 @@ _ Mark an item as seen
 - And tons of more features that get added frequently!
 
 # Price
-Carbide costs $5 and can be purchased from [im2rnado](https://twitter.com/im2rnadoo)
+Carbide is free and can be accessed from [im2rnado](https://twitter.com/im2rnadoo)
 
-# Carbide - Premium Commands
+# Carbide - Fortnite Commands
 The standard command prefix is `+`
 
 ## Account
