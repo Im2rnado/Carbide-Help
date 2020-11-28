@@ -309,6 +309,7 @@ Example:
 ### Report Bug
 Command: `+report`\
 Report any bug encountered
+
 Example:
 
 * `+report Balance command displays wrong amount`
@@ -328,12 +329,12 @@ Returns latency and API latency
 ## Contributers
  * [Mix](https://twitter.com/tonxim) - Endpoints
  * [tb24](https://twitter.com/amrsatrio) - Endpoints
- * [Tector](https://mobile.twitter.com/TectorTruck) - Auth Example
+ * [Tector](https://twitter.com/TectorTruck) - Auth Example
 ## Libraries/APIs
  * [Axios](https://www.npmjs.com/package/axios) - Requests
  * [FortniteAPI.io](https://fortniteapi.io) - Shop and Items
  * [Canvas](https://www.npmjs.com/package/canvas) - Images
  * [MongoDB](https://www.mongodb.com) - Database
- 
+
 
 This project is **NOT** affiliated, authorized, endorsed by, or in any way related to Epic Games Inc.
