@@ -2,7 +2,7 @@
 
 # Carbide &middot; Discord Bot
 
-### ![version](https://img.shields.io/badge/Version-4.0.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
+### ![version](https://img.shields.io/badge/Version-5.1.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
 
 <a target="_blank" href="https://discord.gg/5pKvUpA" title="Join our Discord!">
 <img draggable="false" src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
@@ -11,7 +11,7 @@
 
 # About
 
-**Carbide** is a **Discord Bot** made by [Tornado](https://twitter.com/im2rnadoo) that let's you login to your Fortnite account and access 45+ commands!
+**Carbide** is a **Discord Bot** made by [Tornado](https://twitter.com/im2rnadoo) that let's you login to your Fortnite account and access 50+ commands! You can save up to 10 accounts which you can switch between!
 
 # Features
 
@@ -29,6 +29,10 @@
 - Remove your Linked External Accounts
 - Show your Locker
 - Change Gift Message
+- Change Gift Box
+- Change status of receving gifts
+- Find info of friends
+- Get challenges
 - Buy Battle Pass
 - Buy Battle Bundle
 - Change V-Bucks Platform
@@ -50,7 +54,7 @@
 - Equip a skin
 - Favorite an item
 - Unfavorite an item
-_ Mark an item as seen
+- Mark an item as seen
 - Show if you have 2FA enabled
 - Show your Account Creation Date
 - Show the current shop
@@ -145,6 +149,17 @@ Changes your Gift Message
 Example:
 
 * `+giftm You deserve this!`
+### Gift Box
+Command: `+giftbox`\
+Aliases: `+gb`, `+giftb`\
+Changes your Gift Box
+Usage:
+
+* `+giftb set`
+### Receive Gifts
+Command: `+receivegifts`\
+Aliases: `+giftsreceive`, `+receiveg`\
+Changes your receiving gifts status
 ### Purchase Battle Pass
 Command: `+battlepass `\
 Aliases: `+bp`\
@@ -277,6 +292,14 @@ Example:
 Command: `+friend requests`\
 Aliases: `+f requests`\
 Returns your friends requests
+### Friend Info
+Command: `+friend info`\
+Aliases: `+f info`\
+Returns information of your friend
+
+Example:
+
+* `+f info toelicker69`
 ## Save The World
 ### Claim Daily
 Command: `+daily`\
@@ -306,6 +329,18 @@ Example:
 
 * `+island remove 8064-7152-2934`
 ## Others
+## Challenges
+Command: `+challenges`\
+Returns weekly challenges
+## Meme
+Command: `+meme`\
+Gets memes
+## Rate
+Command: `+rate`\
+Rates you
+## 8ball
+Command: `+8ball`\
+8ball
 ### Report Bug
 Command: `+report`\
 Report any bug encountered
