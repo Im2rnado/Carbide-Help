@@ -80,7 +80,7 @@ Command: `+deletesaved`\
 Aliases: `+del`, `+removesaved`, `+deletesavedlogin`\
 Deletes your saved Fortnite account from the bot's database
 ### Account Info
-Command: `+info`\
+Command: `+accinfo`\
 Aliases: `+account`\
 Returns sensitive information about your Epic Games account
 ### Claim 2FA Reward
