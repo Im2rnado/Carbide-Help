@@ -2,7 +2,7 @@
 
 # Carbide &middot; Discord Bot
 
-### ![version](https://img.shields.io/badge/Version-5.3.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
+### ![version](https://img.shields.io/badge/Version-5.4.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
 
 <a target="_blank" href="https://discord.gg/5pKvUpA" title="Join our Discord!">
 <img draggable="false" src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
@@ -21,13 +21,14 @@
 - Show your Account ID
 - Show your V-Bucks
 - Claim your Daily STW Reward
+- Show your Locker
 - Show your BR Level
 - Show your Account Level
 - Show your Real Name
 - Show your Account Email
 - Show your Linked External Accounts
 - Remove your Linked External Accounts
-- Show your Locker
+- Get account receipts
 - Change Gift Message
 - Change Gift Box
 - Change status of receving gifts
@@ -38,6 +39,7 @@
 - Change V-Bucks Platform
 - Show your Display Name changes
 - Show when you can change your Display Name next
+- Get STW Shop
 - Show if your account is verified
 - Show your Fishing Book
 - Check Validity of Epic Games Code
@@ -88,14 +90,6 @@ Command: `+2fa`\
 Aliases: `+mfa`, `+boogie`\
 Claims the Boogie Down emote on your account. This is needed to be able to gift.\
 You need to have to 2FA enabled on [Epic Games](https://www.epicgames.com/account/password) first
-### Login 
-Command: `+login2`\
-Aliases: `+i2`, `+signin2`\
-Logs into your Epic Games account using Authorization Code
-
-Example: 
-
-* `+login aabbccdd1122334455`
 ### Get Linked
 Command: `+linked`\
 Aliases: `+link`, `+external`\
@@ -109,6 +103,10 @@ Removes a linked account (works with unverified accounts too)
 Example:
 
 * `+unlink psn`
+### Receipts
+Command: `+receipts`\
+Aliases: `+receipt`\
+Gets all receipts for the account
 ### Access Token
 Command: `+token`\
 Generates an access token for your account
@@ -309,6 +307,10 @@ Claims your daily STW reward
 Command: `+homebase`\
 Aliases: `+homebasename`\
 Changes your STW homebase name
+### STW Shop
+Command: `+stwshop`\
+Aliases: `+stwstore`\
+Gets the current STW Shop
 ## Creative
 ### Get Favorite Islands
 Command: `+islands`\
