@@ -2,7 +2,7 @@
 
 # Carbide &middot; Discord Bot
 
-### ![version](https://img.shields.io/badge/Version-5.5.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
+### ![version](https://img.shields.io/badge/Version-5.6.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
 
 <a target="_blank" href="https://discord.gg/5pKvUpA" title="Join our Discord!">
 <img draggable="false" src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
@@ -11,55 +11,44 @@
 
 # About
 
-**Carbide** is a **Discord Bot** made by [Tornado](https://twitter.com/im2rnadoo) that let's you login to your Fortnite account and access 50+ commands! You can save up to 10 accounts which you can switch between!
+**Carbide** is a **Discord Bot** made by [Tornado](https://twitter.com/im2rnadoo) that let's you login to your Fortnite account and access 80+ commands! You can save up to 10 accounts which you can switch between!
 
 # Features
 
-- Buy from the item shop
-- Gift from the item shop
-- Show your Account Name
-- Show your Account ID
-- Show your V-Bucks
+- Buy/Gift from the item shop
+- Get your Account Name/ID
+- Get your V-Bucks and the platforms of them
 - Claim your Daily STW Reward
 - Show your Locker
-- Show your BR Level
-- Show your Account Level
-- Show your Real Name
-- Show your Account Email
-- Show your Linked External Accounts
-- Remove your Linked External Accounts
+- Get your BR/Account Level
+- Get your Account Email/Real Name/Creation Date
+- Get your Linked External Accounts
+- Remove your Linked External Accounts (Works on unverified accounts too)
 - Get account receipts
 - Change Gift Message
 - Change Gift Box
+- Get incoming gifts
 - Change status of receving gifts
-- Find info of friends
+- Get info of a friend
 - Get challenges
-- Buy Battle Pass
-- Buy Battle Bundle
+- Buy the Battle Pass/Battle Bundle
 - Change V-Bucks Platform
-- Show your Display Name changes
-- Show when you can change your Display Name next
-- Get STW Shop
-- Show if your account is verified
+- Get your Display Name changes
+- Get when you can change your Display Name next
 - Show your Fishing Book
-- Check Validity of Epic Games Code
+- Checks Validity of Epic Games Code
 - Show your Favorite Islands
 - Add a Favorite Island
 - Get friends list
-- Add a friend
-- Remove a friend
+- Add/Remove friends
 - Change your Homebase Name
 - Show your Party Hub Avatar
-- Show your Devices and their IP
-- Generate an access token
+- Show your logged in Devices and their IP
 - Show your Gift History
 - Equip a skin
-- Favorite an item
-- Unfavorite an item
-- Mark an item as seen
-- Show if you have 2FA enabled
-- Show your Account Creation Date
-- Show the current shop
+- Favorite/Unfavorite an item
+- Mark an item as seenm
+- Get the current BR/STW shop
 - And tons of more features that get added frequently!
 
 # Price
@@ -352,7 +341,7 @@ Example:
 * `+report Balance command displays wrong amount`
 ### News
 Command: `+news`\
-Usage: `<BR|Creative|STW>
+Usage: `<BR|Creative|STW>`
 Returns in-game news
 
 Example:
@@ -366,12 +355,11 @@ Returns latency and API latency
 ## Contributers
  * [Mix](https://twitter.com/tonxim) - Endpoints
  * [tb24](https://twitter.com/amrsatrio) - Endpoints
- * [Tector](https://twitter.com/TectorTruck) - Auth Example
+ * [Tector](https://twitter.com/Tevtor) - Auth
 ## Libraries/APIs
  * [Axios](https://www.npmjs.com/package/axios) - Requests
- * [FortniteAPI.io](https://fortniteapi.io) - Shop and Items
+ * [Fortnite-API](https://fortnite-api.com) - Cosmetics
  * [Canvas](https://www.npmjs.com/package/canvas) - Images
  * [MongoDB](https://www.mongodb.com) - Database
-
 
 This project is **NOT** affiliated, authorized, endorsed by, or in any way related to Epic Games Inc.
