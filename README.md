@@ -2,7 +2,7 @@
 
 # Carbide &middot; Discord Bot
 
-### ![version](https://img.shields.io/badge/Version-5.6.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
+### ![version](https://img.shields.io/badge/Version-6.0.0-blue.svg?style=for-the-badge) [![Discord](https://img.shields.io/discord/739856631038345266.svg?style=for-the-badge&color=blue&logo=discord&logoColor=white)](https://discord.gg/5pKvUpA)
 
 <a target="_blank" href="https://discord.gg/5pKvUpA" title="Join our Discord!">
 <img draggable="false" src="https://discordapp.com/api/guilds/739856631038345266/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!">
@@ -52,7 +52,7 @@
 - And tons of more features that get added frequently!
 
 # Price
-Carbide costs $3 only and can be accessed from [the owner](https://twitter.com/im2rnadoo)
+Carbide costs $5 only and can be accessed from [the owner](https://twitter.com/im2rnadoo)
 
 # Carbide - Fortnite Commands
 The standard command prefix is `+`
