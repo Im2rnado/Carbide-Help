@@ -11,7 +11,7 @@
 
 # About
 
-**[Carbide](https://carbidebot.com)** is a **Multifunctional Bot** made by [Tornado](https://twitter.com/im2rnadoo) that let's you login to your Fortnite account and access 80+ commands! You can save up to 10 accounts which you can switch between!
+**[Carbide](https://carbidebot.com)** is a **Multifunctional Bot** made by [Tornado](https://twitter.com/im2rnadoo) let's you login to your Fortnite account and access 80+ commands! You can save up to 10 accounts which you can switch between! You can also login to your Valorant account and check your rank, shop, or inventory.
 
 # Features
 
@@ -50,8 +50,8 @@
 - Show the current BR/STW shop
 - And tons of more features that get added frequently!
 
-# Price
-Carbide is available on both Discord and Telegram. You could buy it on one platform only for $5 or on both for $8, which is a really good price compared to it's features! You can access it from [the owner](https://twitter.com/im2rnadoo)
+# Premium
+Carbide is available on both Discord and Telegram. You could purchase premium on one platform for $5 or on both for $8, which is a really good price compared to it's features! You can access it from [the owner](https://twitter.com/im2rnadoo)
 
 # Carbide - Fortnite Commands
 The standard command prefix is `+`
