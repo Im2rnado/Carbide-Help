@@ -58,6 +58,96 @@ The standard command prefix is `+`
 
 Please use `+help` for a full list of commands
 
+## Account
+### 2FA
+Command: +2fa\
+Aliases: +mfa, +boogie\
+Claim Boogie Down
+### ACCINFO
+Command: +accinfo\
+Aliases: None\
+Returns account info
+### AUTO
+Command: +auto\
+Aliases: +automatic\
+Automatically claim your STW Daily
+### CHECKCODE
+Command: +checkcode\
+Aliases: +cc, +ccode, +checkc\
+Checks Validity of Epic Games Code
+### COMPOSEMCP
+Command: +composemcp\
+Aliases: None\
+Composes MCP 
+### CREATE
+Command: +create\
+Aliases: +createacc\
+Creates an epic games account for you
+### DELETESAVED
+Command: +deletesaved\
+Aliases: +del, +removesaved, +deletesavedlogin\
+Removes your Fortnite Account 
+### DISPLAYNAME
+Command: +displayname\
+Aliases: +name, +accountname, +accname, +displayn\
+Changes an account's display name
+### EMAIL
+Command: +email\
+Aliases: None\
+Returns all info epic needs
+### EXCHANGE
+Command: +exchange\
+Aliases: None\
+Generates an Exchange Code
+### GETACC
+Command: +getacc\
+Aliases: +getaccount, +accounti\
+Get info on any Epic Games account
+### IP
+Command: +ip\
+Aliases: +devices, +device\
+Returns IP Addresses
+### LINKED
+Command: +linked\
+Aliases: +link, +external\
+Gets/Unlinks Platforms
+### LOGIN
+Command: +login\
+Aliases: +signin, +i\
+Logs in to your Fortnite Account
+### LOGOUT
+Command: +logout\
+Aliases: +signout, +o\
+Logs out of your Fortnite Account
+### MAKE
+Command: +make\
+Aliases: +createrand\
+Automatically creates an epic games account for you
+### REALNAME
+Command: +realname\
+Aliases: +rname, +realn\
+Changes an account's first/last name
+### RECEIPTS
+Command: +receipts\
+Aliases: +receipt\
+Returns purchase history
+### REMIND
+Command: +remind\
+Aliases: +subscribe\
+Sends you the item shop daily
+### TOKEN
+Command: +token\
+Aliases: None\
+Generates an Access Token
+### UNLINK
+Command: +unlink\
+Aliases: None\
+Unlinks External Platforms
+### UNREMIND
+Command: +unremind\
+Aliases: +unsubscribe\
+Unreminds you of the shop
+
 # Credits
 ## Contributers
  * [Mix](https://twitter.com/tonxim) - Endpoints
