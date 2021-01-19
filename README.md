@@ -56,97 +56,347 @@ Carbide is available on both Discord and Telegram. You could purchase premium on
 # Carbide - Fortnite Commands
 The standard command prefix is `+`
 
-Please use `+help` for a full list of commands
-
 ## Account
 ### 2FA
-Command: +2fa\
-Aliases: +mfa, +boogie\
+Command: `+2fa`\
+Aliases: `+mfa`, `+boogie`\
 Claim Boogie Down
-### ACCINFO
-Command: +accinfo\
+### ACCOUNT INFO
+Command: `+accinfo`\
 Aliases: None\
 Returns account info
-### AUTO
-Command: +auto\
-Aliases: +automatic\
+### AUTO STW
+Command: `+auto`\
+Aliases: `+automatic`\
 Automatically claim your STW Daily
-### CHECKCODE
-Command: +checkcode\
-Aliases: +cc, +ccode, +checkc\
+### CHECK CODE
+Command: `+checkcode`\
+Aliases: `+cc`, `+ccode`, `+checkc`\
 Checks Validity of Epic Games Code
-### COMPOSEMCP
-Command: +composemcp\
+### COMPOSE MCP
+Command: `+composemcp`\
 Aliases: None\
-Composes MCP 
+Composes MCP Requests
 ### CREATE
-Command: +create\
-Aliases: +createacc\
+Command: `+create`\
+Aliases: `+createacc`\
 Creates an epic games account for you
-### DELETESAVED
-Command: +deletesaved\
-Aliases: +del, +removesaved, +deletesavedlogin\
+### DELETE SAVED
+Command: `+deletesaved`\
+Aliases: `+del`, `+removesaved`, `+deletesavedlogin`\
 Removes your Fortnite Account 
-### DISPLAYNAME
-Command: +displayname\
-Aliases: +name, +accountname, +accname, +displayn\
+### CHANGE DISPLAY NAME
+Command: `+displayname`\
+Aliases: `+name`, `+accountname`, `+accname`, `+displayn`\
 Changes an account's display name
 ### EMAIL
-Command: +email\
+Command: `+email`\
 Aliases: None\
 Returns all info epic needs
 ### EXCHANGE
-Command: +exchange\
+Command: `+exchange`\
 Aliases: None\
 Generates an Exchange Code
-### GETACC
-Command: +getacc\
-Aliases: +getaccount, +accounti\
+### GET ACCOUNT
+Command: `+getacc`\
+Aliases: `+getaccount`, `+accounti`\
 Get info on any Epic Games account
 ### IP
-Command: +ip\
-Aliases: +devices, +device\
+Command: `+ip`\
+Aliases: `+devices`, `+device`\
 Returns IP Addresses
 ### LINKED
-Command: +linked\
-Aliases: +link, +external\
+Command: `+linked`\
+Aliases: `+link`, `+external`\
 Gets/Unlinks Platforms
 ### LOGIN
-Command: +login\
-Aliases: +signin, +i\
+Command: `+login`\
+Aliases: `+signin`, `+i`\
 Logs in to your Fortnite Account
 ### LOGOUT
-Command: +logout\
-Aliases: +signout, +o\
+Command: `+logout`\
+Aliases: `+signout`, `+o`\
 Logs out of your Fortnite Account
 ### MAKE
-Command: +make\
-Aliases: +createrand\
+Command: `+make`\
+Aliases: `+createrand`\
 Automatically creates an epic games account for you
-### REALNAME
-Command: +realname\
-Aliases: +rname, +realn\
+### REAL NAME
+Command: `+realname`\
+Aliases: `+rname`, `+realn`\
 Changes an account's first/last name
 ### RECEIPTS
-Command: +receipts\
-Aliases: +receipt\
+Command: `+receipts`\
+Aliases: `+receipt`\
 Returns purchase history
 ### REMIND
-Command: +remind\
-Aliases: +subscribe\
+Command: `+remind`\
+Aliases: `+subscribe`\
 Sends you the item shop daily
 ### TOKEN
-Command: +token\
+Command: `+token`\
 Aliases: None\
 Generates an Access Token
 ### UNLINK
-Command: +unlink\
+Command: `+unlink`\
 Aliases: None\
 Unlinks External Platforms
 ### UNREMIND
-Command: +unremind\
-Aliases: +unsubscribe\
+Command: `+unremind`\
+Aliases: `+unsubscribe`\
 Unreminds you of the shop
+
+## Battle Royale
+### 25 LEVELS
+Command: `+25levels`\
+Aliases: `+25level`, `+25lvl`, `+25l`\
+Buys 25 Levels
+### ANNUAL PASS
+Command: `+annualpass`\
+Aliases: `+ap`\
+Buys the Annual Pass
+### ARENA
+Command: `+arena`\
+Aliases: `+hype`\
+Returns Arena Points
+### BALANCE
+Command: `+balance`\
+Aliases: `+bal`, `+vbucks`, `+v`\
+Returns V-Bucks Balance
+### BATTLE BUNDLE
+Command: `+battlebundle`\
+Aliases: `+bd`\
+Buys the Battle Bundle 
+### BATTLE PASS
+Command: `+battlepass`\
+Aliases: `+bp`\
+Buys the Battle Pass 
+### BUY
+Command: `+buy`\
+Aliases: `+b`\
+Buys from Item Shop
+### CARD
+Command: `+card`\
+Aliases: None\
+Cards V-Bucks
+### COSMETIC
+Command: `+cosmetic`\
+Aliases: None\
+Returns Info on a cosmetic
+### EQUIP
+Command: `+equip`\
+Aliases: None\
+Equip a skin in-game
+### EXCLUSIVES
+Command: `+exclusives`\
+Aliases: None\
+Returns Exlusive Cosmetics
+### FAVORITE
+Command: `+favorite`\
+Aliases: None\
+Favorite an item in-game
+### FISH
+Command: `+fish`\
+Aliases: None\
+Returns Fishing Book
+### GIFT
+Command: `+gift`\
+Aliases: `+g`\
+Gifts from Item Shop
+### GIFT ANNUAL PASS
+Command: `+giftap`\
+Aliases: `+giftannualpass`\
+Gifts the Annual Pass
+### GIFT BOOK
+Command: `+giftbook`\
+Aliases: `+giftb`\
+Returns/Opens incoming gifts
+### GIFT BOX
+Command: `+giftbox`\
+Aliases: `+gb`, `+giftb`, `+gw`, `+giftwrap`\
+Changes Gift Box
+### GIFT HISTORY
+Command: `+gifthistory`\
+Aliases: `+gifth`\
+Returns gift history
+### GIFT MESSAGE
+Command: `+giftmessage`\
+Aliases: `+gm`, `+giftm`\
+Changes Gift Message
+### LEVEL
+Command: `+level`\
+Aliases: `+br`\
+Returns br info 
+### LOCKER
+Command: `+locker`\
+Aliases: None\
+Returns Total Skins 
+### MARKSEEN
+Command: `+markseen`\
+Aliases: `+mark`, `+see`, `+marks`\
+Marks an item as seen in-game 
+### NEWS
+Command: `+news`\
+Aliases: None\
+Returns BR, STW and Creative News
+### NEXT REWARD
+Command: `+nextreward`\
+Aliases: `+nextr`\
+Returns Next Reward from the battle pass
+### RECEIVE GIFTS
+Command: `+receivegifts`\
+Aliases: `+giftsreceive`, `+receiveg`, `+greceive`\
+Change status of gifts
+### REFUND
+Command: `+refund`\
+Aliases: None\
+Refunds's any purchase
+### REFUND HISTORY
+Command: `+refundhistory`\
+Aliases: `+refundh`\
+Returns refund history
+### SAC
+Command: `+sac`\
+Aliases: None\
+Sets SAC Code 
+### SHOP
+Command: `+shop`\
+Aliases: `+store`, `+st`\
+Returns Fortnite Shop
+### SHOP IMAGE
+Command: `+shopimage`\
+Aliases: `+sm`, `+sp`, `+si`, `+shoppic`, `+shopimage`, `+shopi`\
+Returns Fortnite Shop
+### STATS
+Command: `+stats`\
+Aliases: None\
+Get stats of accounts
+### TIER
+Command: `+tier`\
+Aliases: `+tiers`\
+Buys Tiers
+### UNDO
+Command: `+undo`\
+Aliases: None\
+Undo's last purchase
+### UNFAVORITE
+Command: `+unfavorite`\
+Aliases: None\
+Unfavorite an item in-game 
+### VBUCKS PLATFORM
+Command: `+vbucksplatform`\
+Aliases: `+platform`, `+vp`, `+plt`, `+mtxplatform`, `+vbplatform`\
+Changes V-Bucks Platform
+
+## Party Hub
+### AVATAR
+Command: `+avatar`\
+Aliases: `+kairos`, `+avi`\
+Returns Party Hub Avatar 
+### FRIEND
+Command: `+friend`\
+Aliases: `+f`, `+friends`\
+Friend Add/Remove/Nuke/Info
+### RECEIVE FRIEND
+Command: `+receivefriend`\
+Aliases: `+receiverequests`, `+receivef`, `+freceive`\
+Change status of friend requests
+
+## STW
+### DAILY
+Command: `+daily`\
+Aliases: `+claim`, `+stw`\
+Claims Daily STW Reward 
+### GOLD
+Command: `+gold`\
+Aliases: `+stwbal`\
+Gets amount of Gold in STW
+### HOMEBASE
+Command: `+homebase`\
+Aliases: `+homebasename`\
+Changes your STW Homebase Name 
+### STW INFO
+Command: `+stwinfo`\
+Aliases: `+stwi`, `+infostw`\
+Gets information about your STW Campagin
+### STW SHOP
+Command: `+stwshop`\
+Aliases: `+stwstore`\
+Returns Fortnite STW Shop
+
+## FUN
+### 8BALL
+Command: `+8ball`\
+Aliases: None\
+Simple 8ball
+### BURGERKING
+Command: `+burgerking`\
+Aliases: `+burgerk`\
+Burger King Menu
+### CHALLENGES
+Command: `+challenges`\
+Aliases: None\
+Returns Fortnite challenges
+### DICTIONARY
+Command: `+dictionary`\
+Aliases: `+define`\
+Word definitions
+### DOMINOS
+Command: `+dominos`\
+Aliases: `+domino`\
+Dominos Pizza Menu
+### DROP
+Command: `+drop`\
+Aliases: None\
+Random Drop Spot
+### FREEGAMES
+Command: `+freegames`\
+Aliases: None\
+List of Free Games
+### GIVEAWAY
+Command: `+giveaway`\
+Aliases: `+gaw`\
+Starts giveaways
+### INVITES
+Command: `+invites`\
+Aliases: None\
+Gets your total invites!
+### LEADERBOARD
+Command: `+leaderboard`\
+Aliases: None\
+Gets the users with most xp!
+### MAP
+Command: `+map`\
+Aliases: None\
+Returns current Fortnite map!
+### MCDONALDS
+Command: `+mcdonalds`\
+Aliases: `+mac`\
+McDonald's Menu
+### MEME
+Command: `+meme`\
+Aliases: None\
+Sends memes
+### NPC
+Command: `+npc`\
+Aliases: None\
+Returns NPC's on the map!
+### PP
+Command: `+pp`\
+Aliases: None\
+PP size!
+### RANK
+Command: `+rank`\
+Aliases: None\
+Gets your rank!
+### RATE
+Command: `+rate`\
+Aliases: None\
+Rates you!
+### TWEET
+Command: `+tweet`\
+Aliases: None\
+Tweets something as Trump
 
 # Credits
 ## Contributers
