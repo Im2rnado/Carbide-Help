@@ -50,7 +50,8 @@ The bot has tons of amazing features which you can check out by using `+help`. H
 Carbide is available on both Discord and Telegram. You could purchase premium on one platform for $5 or on both for $8, which is a really good price compared to it's features! You can [join our server](https://discord.gg/carbide) and open a ticket to purchase!
  * Bitcoin Address - 1F2gwh4U4KHk2n8eWEKtwsfMxgh9ibUMtn
  * Ethereum	Address - 0x710F74F4d65a2bF20EfEA5127E32Fb39B9071BFe
- * Litecoin Address- MSVkr6xbaWqv8JZz2mycU4briSYs7ZKDU6
+ * Litecoin Address - MSVkr6xbaWqv8JZz2mycU4briSYs7ZKDU6
+ * Dogecoin Address - DA5mxBteiHcymEvui4LXRUeeiKSXSnjFkP
  * Coinbase Mail - im2rnadoo@gmail.com
 
 # Carbide - Fortnite Commands
